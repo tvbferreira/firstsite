@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>BEGGINING WEB TEST</title>
+        <meta name="description" content="WELCOME!>
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        
+        <h1>GETTING STARTED WITH BRACKETS</h1>
+        <h2>This is your guide!</h2>
+        
+        <!--
+            MADE WITH <3 AND JAVASCRIPT
+        -->
+        
+        <p>
+            Welcome to Brackets, a modern open-source code editor that understands web design. It's a lightweight,
+            yet powerful, code editor that blends visual tools into the editor so you get the right amount of help
+            when you want it.
+        </p>
+        
+     
+        </samp>
+        
+        <a href="LANDSCAPE IMAGE.JPG">
+            <img alt="A screenshot showing CSS Quick Edit" src="screenshots/quick-edit.png" />
+        </a>
+        
+       
+        <!--
+            LIVE PREVIEW
+        -->
+        <h3>Preview HTML and CSS changes live in the browser</h3>
+       
+        <h3>Live Highlight HTML elements and CSS rules</h3>
+       
